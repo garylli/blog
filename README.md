@@ -1,18 +1,7 @@
-# Quartz v4
+# Welcome to my blog
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is a repository made with [Quartz](https://quartz.jzhao.xyz/) that contains the files used to serve my [blog](https://blog.quietlybuilding.com).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+As of writing this, I'm 24, unemployed, and without any prospects. However, I have still been spending 8+ hours a day developing.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+I wanted a place to distill my learnings whilst honing my writing skills. Hopefully this blog is that place!

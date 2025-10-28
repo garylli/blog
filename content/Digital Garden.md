@@ -1,6 +1,6 @@
 ---
 tags:
-  - digital-gardens
+  - "#digital-garden"
 title: Digital Gardens
 ---
 I first came across the term [[Digital Gardens]] while diving into twitter’s design space for my (at the time) design studio [Blankform](blankform.co).  I had stumbled upon Jacky’s [animation](https://x.com/i/status/1856103807903773015) transitioning his blog from dawn till dusk.

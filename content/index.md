@@ -1,7 +1,6 @@
 ---
 title: Welcome
 ---
-
 Gary here!
 
 Welcome to my little corner of the internet—my own curated escape into the [[Digital Garden |more grounded, substantive rooms]] of the digital neighborhood.

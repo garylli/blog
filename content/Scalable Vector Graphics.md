@@ -11,3 +11,7 @@ tags:
 SVGs are another medium I’ve recently taken a liking to in regards to digital art.  SVGs are lossless, extremely lightweight, infinitely scalable, and allow for enhancements to your art that you normally wouldn’t have access to, such as **animations**!
 
 SVGs use mathematical functions and an assortment of commands to represent anything you can imagine! Similar to using the pen tool in photoshop/figma but in harmony with other web technologies such as Javascript and CSS.
+
+==SVGs are painted from **back to front** according to when they are defined.  Elements that are defined later will appear *on top of* elements that were defined before.==
+
+The main element that will be used is the [[<path>]] element

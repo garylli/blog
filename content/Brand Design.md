@@ -7,3 +7,4 @@ title: Brand Design
 ---
 ## Books
 [[The Brand Gap]]
+[[Designing Brand Identity]]
